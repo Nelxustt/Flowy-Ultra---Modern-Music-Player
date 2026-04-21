@@ -35,21 +35,24 @@ Procesamiento de Imágenes: Pillow (PIL) y Requests.
 
 📦 Instalación
 Clona el repositorio:
-
+```python
 Bash
 git clone https://github.com/tu-usuario/flowy-ultra.git
 cd flowy-ultra
+```
 Instala las dependencias:
-
+```python
 Bash
 pip install customtkinter python-vlc yt-dlp pillow requests plyer
+```
 Requisito del Sistema:
 Es necesario tener instalado VLC Media Player (64 bits preferiblemente) en tu sistema, ya que el motor de audio utiliza sus librerías dinámicas.
 
 Ejecuta la aplicación:
-
+```python
 Bash
 python flowy_app.py
+```
 
 
 📄 Licencia
